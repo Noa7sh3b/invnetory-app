@@ -10,7 +10,7 @@ from pathlib import Path
 # Application metadata
 # ---------------------------------------------------------------------------
 APP_NAME = "Mini Inventory"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.1.0"
 APP_LAST_UPDATE = "February 2026"
 
 # ---------------------------------------------------------------------------
@@ -57,3 +57,4 @@ UPDATES_18_MONTHS_PRICE = 49
 CUSTOM_SIMPLE_PRICE = 19
 CUSTOM_MEDIUM_PRICE = 34
 CUSTOM_COMPLEX_PRICE = "50+"
+
