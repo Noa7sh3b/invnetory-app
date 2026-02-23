@@ -6,7 +6,7 @@ streamlit>=1.25.0,<2.0.0
 
 # Data Processing
 pandas>=1.5.0,<3.0.0
-
+flask
 # Visualization
 plotly>=5.14.0
 
@@ -19,3 +19,4 @@ Pillow>=9.0.0
 
 # Optional: Environment Variables (uncomment if using .env file)
 # python-dotenv>=1.0.0
+
